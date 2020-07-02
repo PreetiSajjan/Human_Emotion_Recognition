@@ -11,6 +11,7 @@ This model can distinguish among seven emotions: happiness, sadness, anger, surp
 
 [![Download to watch full video output](images/outut.png)](Emotion Detector.mp4)
 
+
 # To use
 Clone the repository using command: git clone https://github.com/PreetiSajjan/Human_Emotion_Recognition.git
 
