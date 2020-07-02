@@ -8,12 +8,13 @@ I have here implemented a state-of-the-art model for real-time human emotion rec
 This model can distinguish among seven emotions: happiness, sadness, anger, surprise, disgust, fear, and neutral, based on facial expressions. 
 
 # Output
+
 [![Download to watch full video output](images/outut.png)](Emotion Detector.mp4)
 
 # To use
-Clone the repository using command: git clone https://github.com/PreetiSajjan/Human_Emotion_Rcognition.git
+Clone the repository using command: git clone https://github.com/PreetiSajjan/Human_Emotion_Recognition.git
 
-The dataset used is included in the repository so need not to be downloaded explicitly.
+The dataset used is not included in the repository so need to be downloaded explicitly (link provided).
 
 Train the model to detect mask using python emotion_detector.py
 
