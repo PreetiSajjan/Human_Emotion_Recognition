@@ -9,7 +9,7 @@ This model can distinguish among seven emotions: happiness, sadness, anger, surp
 
 # Output
 
-[!(images/outut.png)]
+[!](images/outut.png)
 
 # To use
 Clone the repository using command: git clone https://github.com/PreetiSajjan/Human_Emotion_Recognition.git
