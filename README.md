@@ -17,7 +17,7 @@ Clone the repository using command: git clone https://github.com/PreetiSajjan/Hu
 
 The dataset used is not included in the repository so need to be downloaded explicitly (link provided).
 
-Train the model to detect mask using python emotion_detector.py
+Train the model to recognize emotion using python emotion_detector.py
 
 To run the test: python camera.py
 
